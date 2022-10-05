@@ -1,9 +1,8 @@
 import React from 'react';
 import Land from '../../Assets/land.svg';
-import { Link } from 'react-router-dom';
 
 
-function Index() {
+function Landing() {
   return (
     <>
  <div className="flex-auto flex-col">
@@ -24,4 +23,4 @@ function Index() {
   );
 }
 
-export default Index;
+export default Landing;

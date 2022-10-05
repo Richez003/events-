@@ -5,7 +5,7 @@ import Date from '../../Assets/date.svg';
 import Arrow from '../../Assets/arrow.svg';
 
 
-function Index() {
+function Events() {
   return (
     <>
         <div className="flex flex-col justify-center text-center md:p-10 lg:flex-row lg:flex-row-reverse lg:justify-evenly">
@@ -53,4 +53,4 @@ function Index() {
   );
 }
 
-export default Index;
+export default Events;
