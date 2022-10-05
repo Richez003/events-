@@ -1,15 +1,14 @@
 
-import Events from './Events/Events';
-import Landing from './Landing/Landing';
+import Event from './events/Event';
+import Landing from './landing/Landing';
 
-function App() {
+const App =()=> (
 
-  return (
     <>
-<Events />
+<Event />
 <Landing />
     </>
-  );
-}
+
+);
 
 export default App;

@@ -1,0 +1,15 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@font-face {
+  font-family: Airbnb;
+  src: url("./Fonts/AirbnbCerealLight.ttf") format("truetype"),
+    url("./Fonts/AirbnbCerealBlack.ttf") format("truetype"),
+    url("./Fonts/AirbnbCerealBold.ttf") format("truetype"),
+    url("./Fonts/AirbnbCerealBook.ttf") format("truetype"),
+    url("./Fonts/AirbnbCerealExtraBold.ttf") format("truetype"),
+    url("./Fonts/AirbnbCerealMedium.ttf") format("truetype");
+}
