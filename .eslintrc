@@ -1,0 +1,12 @@
+{
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    }
+  },
+  "rules": {
+    "semi": 2
+  },
+  "parser": "babel-eslint"
+}
